@@ -5,7 +5,7 @@ from pycpsst import ChangePointSST
 
 def test_output_shape():
     '''
-    Check whether the output of the 
+    Check whether the output of the
     ChangePointSST().score(X) method
     is a float.
     '''
